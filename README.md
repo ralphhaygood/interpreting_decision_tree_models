@@ -19,6 +19,13 @@ interactions - Which ones combine non-additively? Regarding feature interactions
 *H* statistics, a topic from the research literature that I've found useful in my own practice.
 
 
+Thanks
+------
+
+To Research Triangle Analysts for the opportunity to speak and to Chris Calloway (https://github.com/cbcunc) for
+producing the video.
+
+
 Contact
 -------
 

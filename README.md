@@ -22,8 +22,8 @@ interactions - Which ones combine non-additively? Regarding feature interactions
 Thanks
 ------
 
-To Research Triangle Analysts for the opportunity to speak and to Chris Calloway (https://github.com/cbcunc) for
-producing the video.
+To Research Triangle Analysts (https://www.meetup.com/Research-Triangle-Analysts/) for the opportunity to speak and to
+Chris Calloway (https://github.com/cbcunc) for producing the video.
 
 
 Contact

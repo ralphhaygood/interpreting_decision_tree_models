@@ -23,7 +23,7 @@ Thanks
 ------
 
 To Research Triangle Analysts (https://www.meetup.com/Research-Triangle-Analysts/) for the opportunity to speak and to
-Chris Calloway (https://github.com/cbcunc) for producing the video.
+Chris Calloway (https://github.com/cbcunc) for producing the video (https://youtu.be/KB9P2EwS3-4).
 
 
 Contact

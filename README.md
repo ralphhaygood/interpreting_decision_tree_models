@@ -30,4 +30,4 @@ Contact
 -------
 
 Ralph Haygood (https://ralphhaygood.org/)  
-ralph@ralphhaygood.org.
+ralph@ralphhaygood.org
